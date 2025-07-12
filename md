@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/twentys2/MM2/refs/heads/main/MM2Script",true))()
+ loadstring(game:HttpGet("https://paste.ee/r/64yuaH9k"))()
