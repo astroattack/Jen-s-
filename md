@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SVN-HUB/Xhub/refs/heads/main/XhubPremium"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MM2Nebula/MM2/refs/heads/main/script"))() 
